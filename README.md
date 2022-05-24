@@ -27,3 +27,11 @@ tsc => compile one time
 tsc --watch => You can set watch mode
 
 ```
+
+---
+> 2022-05-24  
+> ```Add Directory TSDD(Typescript Deep Dive)```
+
+
+
+
